@@ -1,0 +1,9 @@
+wheel
+scikit-learn==0.21.3
+tensorflow==2.11.0
+scikit-image==0.19.3
+filterpy==1.4.5
+uvicorn
+fastapi
+opencv-python-headless
+git+https://github.com/IDEA-Research/GroundingDINO.git
